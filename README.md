@@ -1,13 +1,26 @@
-## react-app 搭建脚手架
+# umi project
 
-#### step1:
-`npm install -g create-react-app`
+## Getting Started
 
-#### step2:
-`create-react-app react-app    // react-app project name`
+Install dependencies,
 
-#### step3:
-`cd react-app`
+```bash
+$ yarn
+```
 
-#### step4:
-`npm start    // npm run start`
+Start the dev server,
+
+```bash
+$ yarn start
+```
+
+React
+
+技术：基于 Umi3 + DVA + TS + Antd-Mobile
+创建目录： mkdir snow-mall
+打开目录：cd snow-mall
+安装依赖：yarn
+启动项目：yarn start
+
+安装classnames和types
+npm install --save classnames @types/classnames
